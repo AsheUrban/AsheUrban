@@ -4,20 +4,20 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
 
-[![Ashe Urban's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheurban&show_icons=true&theme=calm)](https://github.com/asheurban/github-readme-stats)
+[![Ashe Urban's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheurban&show_icons=true&theme=swift)](https://github.com/asheurban/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheurban&layout=compact&theme=calm&hide_progress=true)](https://github.com/asheurban/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheurban&layout=compact&theme=swift&hide_progress=true)](https://github.com/asheurban/github-readme-stats)
 
 ## TEAM WEEK PROJECTS
 The following projects were built in collaboration with peers at Epicodus!
 <hr />
 
 <a href="https://github.com/asheurban/watch-out-for-frank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=watch-out-for-frank&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=watch-out-for-frank&theme=swift" />
 </a>
 <a href="https://github.com/asheurban/spacejelly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=spacejelly&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=spacejelly&theme=swift" />
 </a>
 <a href="https://github.com/asheurban/the-event-handlers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=the-event-handlers&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=the-event-handlers&theme=swift" />
 </a>
