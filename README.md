@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheurban&layout=compact&theme=calm&hide_progress=true)](https://github.com/asheurban/github-readme-stats)
 
 ## TEAM WEEK PROJECTS
-The following projects were built in collaboration with peers while studying at Epicodus!
+The following projects were built in collaboration with peers at Epicodus!
 <hr />
 <a href="https://github.com/asheurban/spacejelly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=spacejelly&theme=calm" />
