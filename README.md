@@ -8,14 +8,17 @@
 
 ## TEAM WEEK PROJECTS
 The following projects were built in collaboration with peers at Epicodus!
-<hr />
 
 <a href="https://github.com/asheurban/watch-out-for-frank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=watch-out-for-frank&theme=graywhite" />
 </a>
+<br>
+<br>
 <a href="https://github.com/asheurban/spacejelly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=spacejelly&theme=graywhite" />
 </a>
+<br>
+<br>
 <a href="https://github.com/asheurban/the-event-handlers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asheurban&repo=the-event-handlers&theme=graywhite" />
 </a>
