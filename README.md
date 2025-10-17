@@ -4,8 +4,6 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
 
-[![Ashe Urban's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheurban&show_icons=true&theme=graywhite)](https://github.com/asheurban/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheurban&layout=compact&theme=graywhite&hide_progress=true)](https://github.com/asheurban/github-readme-stats)
 
 ## TEAM WEEK PROJECTS
