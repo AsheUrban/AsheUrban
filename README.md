@@ -2,7 +2,7 @@
 
 An emerging software engineer building applications in React and .NET, with experience in frontend and backend development. My recent work reflects a shift from structured, educational projects toward building products inspired by real problems I encounter in everyday life. I believe when a problem is personal, it becomes more relatable, and that perspective shapes how I design and build.
 
-Dine-Together is one example of this evolution, applying technical foundations to a product rooted in a real-world use case, with more projects in progress. This phase of my career is about deepening my technical craft while also leveraging cross-functional experience in strategy, collaboration, and creative problem solving to build thoughtful, user-centered applications.
+Dine-Together is one example of this evolution, applying technical foundations to a product rooted in a real-world use case, with more projects in progress. This phase of my career is about deepening my technical craft while also leveraging cross-functional experience in strategy, collaboration, and creative problem solving to build thoughtful, user-centered products.
 
 ---
 
