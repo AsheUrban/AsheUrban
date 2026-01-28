@@ -36,5 +36,6 @@ A collaborative browser-based game implementing collision detection, scoring log
 
 ---
 
-### Full Portfolio  
-https://github.com/AsheUrban
+### Full Portfolio  | LinkedIn Profile
+https://github.com/AsheUrban |
+https://www.linkedin.com/in/ashe-urban/
