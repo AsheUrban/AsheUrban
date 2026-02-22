@@ -1,17 +1,33 @@
 ## Hi, I'm Ashe!
 
-An emerging software engineer building applications in React and .NET, with experience in frontend and backend development. My recent work reflects a shift from structured, educational projects toward building products inspired by real problems I encounter in everyday life. I believe when a problem is personal, it becomes more relatable, and that perspective shapes how I design and build.
+An engineer with a growing focus on React and React Native, and a background that spans frontend and backend development, including .NET. I build products rooted in problems I encounter in my daily life, the kind I think are personal enough to stay interesting and relatable enough to be worth solving well.
 
-Dine-Together is one example of this evolution, applying technical foundations to a product rooted in a real-world use case, with more projects in progress. This phase of my career is about deepening my technical craft while also leveraging cross-functional experience in strategy, collaboration, and creative problem solving to build thoughtful, user-centered products.
+That perspective shapes everything from architecture decisions to the details of how something feels to use. 
+
+Dine-Together started as an exploration of social restaurant discovery and grew into a full Firebase MVP with Google Places integration and a service-layer architecture. It's now being rebuilt from the ground up as A Table For, a TypeScript/Supabase/React Native rewrite with a richer social graph and mobile-first design. 
+
+Alongside that, I'm working on another project idea, Sanguine, a privacy-first period and chronic illness tracker with a zero-knowledge architecture, designed specifically for users who need their data to stay theirs.
+
+I bring a cross-functional background spanning community organizing, digital strategy, and project management. Experience that shapes how I think about products, not just as technical problems, but as things built for and with real people. 
 
 ---
 
 ## Highlighted Projects
 
-### 🥘 Dine-Together  
+### 🥘 Dine Together  
 🔗 https://github.com/AsheUrban/Dine-Together  
 **React, JavaScript, HTML, CSS, API Integration**  
 A full-stack React application currently in development, designed to help groups decide where to eat collaboratively. Implements component-driven UI, state management, async API calls, and real-world user flows. Demonstrates frontend architecture, product thinking, and scalable structure.
+
+### 🪑A Table For
+🔗 https://github.com/AsheUrban/Table-For
+**React Native, Expo, TypeScript, Supabase, NativeWind**
+A social dining app that helps people discover restaurants and coordinate meals together, rebuilt mobile-first from the Dine-Together Firebase MVP. Uses file-based routing via Expo Router, a relational Supabase backend with Row Level Security, and NativeWind for cross platform styling. Demonstrates full-stack mobile architecture, TypeScript discipline, and iterative product thinking.
+
+### 🌔 Sanguine
+🔗 https://github.com/AsheUrban/sanguine
+**React Native, Expo, TypeScript, MMKV**
+A privacy-first period and chronic illness tracker built on a zero-knowledge architecture. No servers, no data collection, nothing to hand over. Designed for users who need their data to stay theirs, with safety features built into the core rather than bolted on. Currently in pre-development and design phase.
 
 ### 🗒️ ToDoList.Solution  
 🔗 https://github.com/AsheUrban/ToDoList.Solution  
