@@ -20,13 +20,13 @@ I bring a cross-functional background spanning community organizing, digital str
 A full-stack React application currently in development, designed to help groups decide where to eat collaboratively. Implements component-driven UI, state management, async API calls, and real-world user flows. Demonstrates frontend architecture, product thinking, and scalable structure.
 
 ### 🪑A Table For
-🔗 https://github.com/AsheUrban/Table-For
-**React Native, Expo, TypeScript, Supabase, NativeWind**
+🔗 https://github.com/AsheUrban/Table-For  
+**React Native, Expo, TypeScript, Supabase, NativeWind**  
 A social dining app that helps people discover restaurants and coordinate meals together, rebuilt mobile-first from the Dine-Together Firebase MVP. Uses file-based routing via Expo Router, a relational Supabase backend with Row Level Security, and NativeWind for cross platform styling. Demonstrates full-stack mobile architecture, TypeScript discipline, and iterative product thinking.
 
 ### 🌔 Sanguine
-🔗 https://github.com/AsheUrban/sanguine
-**React Native, Expo, TypeScript, MMKV**
+🔗 https://github.com/AsheUrban/sanguine  
+**React Native, Expo, TypeScript, MMKV**  
 A privacy-first period and chronic illness tracker built on a zero-knowledge architecture. No servers, no data collection, nothing to hand over. Designed for users who need their data to stay theirs, with safety features built into the core rather than bolted on. Currently in pre-development and design phase.
 
 ### 🗒️ ToDoList.Solution  
