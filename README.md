@@ -8,7 +8,7 @@ Dine-Together started as an exploration of social restaurant discovery and grew 
 
 Alongside that, I'm working on another project idea, Sanguine, a privacy-first period and chronic illness tracker with a zero-knowledge architecture, designed specifically for users who need their data to stay theirs.
 
-I bring a cross-functional background spanning community organizing, digital strategy, and project management. Experience that shapes how I think about products, not just as technical problems, but as things built for and with real people in mind. 
+I bring a cross-functional background spanning community organizing, digital strategy, and project management. Experience that shapes how I think about products, not just as technical problems, but as things built with real people in mind. 
 
 ---
 
