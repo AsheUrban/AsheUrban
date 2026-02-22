@@ -17,7 +17,7 @@ I bring a cross-functional background spanning community organizing, digital str
 ### 🥘 Dine Together  
 🔗 https://github.com/AsheUrban/Dine-Together  
 **React, JavaScript, HTML, CSS, API Integration**  
-A full-stack React application currently in development, designed to help groups decide where to eat collaboratively. Implements component-driven UI, state management, async API calls, and real-world user flows. Demonstrates frontend architecture, product thinking, and scalable structure.
+A full-stack React application and completed MVP, designed to help groups discover and share restaurants. Implements component-driven UI, state management, async API calls, and real-world user flows. Demonstrates frontend architecture, product thinking, and scalable structure.
 
 ### 🪑A Table For
 🔗 https://github.com/AsheUrban/Table-For  
