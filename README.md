@@ -6,7 +6,7 @@ That perspective shapes everything from architecture decisions to the details of
 
 Dine-Together started as an exploration of social restaurant discovery and grew into a full Firebase MVP with Google Places integration and a service-layer architecture. It's now being rebuilt from the ground up as A Table For, a TypeScript/Supabase/React Native rewrite with a richer social graph and mobile-first design. 
 
-Alongside that, I'm working on another project idea, Sanguine, a privacy-first period and chronic illness tracker with a zero-knowledge architecture, designed specifically for users who need their data to stay theirs.
+Alongside that, I'm working on another project idea, Sanguine, a privacy-first cycle and chronic symptom tracker with a zero-knowledge architecture, designed specifically for users who need their data to stay theirs.
 
 I bring a cross-functional background spanning community organizing, digital strategy, and project management. Experience that shapes how I think about products, not just as technical problems, but as things built with real people in mind. 
 
