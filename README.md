@@ -27,7 +27,7 @@ A social dining app that helps people discover restaurants and coordinate meals 
 ### 🌔 Sanguine
 🔗 https://github.com/AsheUrban/sanguine  
 **React Native, Expo, TypeScript, MMKV**  
-A privacy-first period and chronic illness tracker built on a zero-knowledge architecture. No servers, no data collection, nothing to hand over. Designed for users who need their data to stay theirs, with safety features built into the core rather than bolted on. Currently in pre-development and design phase.
+A privacy-first cycle and chronic symptom tracker built on a zero-knowledge architecture. No servers, no data collection, nothing to hand over. Designed for users who need their data to stay theirs, with safety features built into the core rather than bolted on. Currently in pre-development and design phase.
 
 ### 🗒️ ToDoList.Solution  
 🔗 https://github.com/AsheUrban/ToDoList.Solution  
