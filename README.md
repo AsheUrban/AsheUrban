@@ -5,7 +5,7 @@ I build products rooted in experiences from my daily life. Personal enough to st
 I work with AI as a core part of my development process. Not as autocomplete, but as a structured collaboration. Defined roles, clear ownership, real accountability. On some projects I write the code with AI mentoring the stack; on others AI drives implementation while I own the product and the commits. I'm actively exploring what it looks like to build serious software this way, feel free to ask me about specifics and I'd be happy to talk workflow and documentation!
 
 I bring a cross-functional background spanning community organizing, digital strategy, and project management. Experience that shapes how I think about
-products as things built with real people in mind.
+products and drives me to work with real people in mind.
 
 ---
 
