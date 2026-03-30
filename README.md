@@ -18,6 +18,7 @@ A social dining app that cuts through the back-and-forth of planning dinner out.
 
 ### 📹 roger
 🔗 https://github.com/AsheUrban/roger
+**Flutter, Dart, Supabase, Cloudflare R2, LiveKit**
 A privacy-first async video messaging app for small, close groups. End-to-end encrypted, local-first architecture where the server only ever sees ciphertext. Features rolling message windows, inline video playback, and real-time video calls via LiveKit WebRTC. Built with Riverpod state management, Drift for local storage, and a feature-based folder structure. Demonstrates E2EE implementation, privacy-by-design architecture, and spec-driven development.
   
 ### 🌔 Sanguine
