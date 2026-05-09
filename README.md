@@ -2,7 +2,7 @@
 
 I build products rooted in personal experiences from my daily life that I think are relatable enough to be worth solving well. 
 
-I want to create apps that respect my privacy and the privacy of my friends and family, and imagine tools that add to the quality of our lives, not suck time away. My goal is to design things that are well built, thoughtful and easy to use, *and* are aesthetically pleasing.
+I aim to create apps that respect my privacy and the privacy of my friends and family, and imagine tools that add to the quality of our lives, not suck time away. My goal is to design things that are well built, thoughtful and easy to use, *and* are aesthetically pleasing.
 
 AI is an experimental part of my development process. On some projects I write the code with AI mentoring and guiding me; on others AI drives implementation while I own the product and the commits. I'm actively exploring what it looks like to build serious software this way, feel free to ask me about specifics and I'd be happy to talk workflow and documentation!
 
