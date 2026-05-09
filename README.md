@@ -1,8 +1,10 @@
 ## Hi, I'm Ashe!
 
-I build products rooted in experiences from my daily life. Personal enough to stay interesting, relatable enough to be worth solving well. I like to look at what's available and ask what's missing from the marketplace; I don't want to just create another option, I want to build a better one. Privacy that's real, not performative. Design that respects the people using it *and* is aesthetically pleasing. Architecture that makes the right thing easy and the wrong thing hard. That perspective shapes everything from the data model to the details of how something feels to use.
+I build products rooted in personal experiences from my daily life that I think are relatable enough to be worth solving well. 
 
-I work with AI as a core part of my development process. Not as autocomplete, but as a structured collaboration. Defined roles, clear ownership, real accountability. On some projects I write the code with AI mentoring the stack; on others AI drives implementation while I own the product and the commits. I'm actively exploring what it looks like to build serious software this way, feel free to ask me about specifics and I'd be happy to talk workflow and documentation!
+I want to create apps that respect my privacy and the privacy of my friends and family. I imagine tools that add to the quality of our lives, not suck time away. My goal is to design things that are well built, thoughtful and easy to use, *and* are aesthetically pleasing.
+
+I work with AI as an experimental part of my development process. On some projects I write the code with AI mentoring and guiding me; on others AI drives implementation while I own the product and the commits. I'm actively exploring what it looks like to build serious software this way, feel free to ask me about specifics and I'd be happy to talk workflow and documentation!
 
 I bring a cross-functional background spanning community organizing, digital strategy, and project management. Experience that shapes how I think about
 products and drives me to work with real people in mind.
