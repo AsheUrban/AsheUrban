@@ -4,8 +4,6 @@ I build products rooted in personal experiences from my daily life that I think 
 
 I aim to create apps that respect my privacy and the privacy of my friends and family, and imagine tools that add to the quality of our lives, not suck time away. My goal is to design things that are well built, thoughtful and easy to use, *and* are aesthetically pleasing.
 
-AI is an experimental part of my development process. On some projects I write the code with AI mentoring and guiding me; on others AI drives implementation while I own the product and the commits. I'm actively exploring what it looks like to build serious software this way, feel free to ask me about specifics and I'd be happy to talk workflow and documentation!
-
 My background is cross-functional, spanning community organizing, digital strategy, project management, and software engineering. Experience that shapes how I think about
 products and drives me to work with real people in mind.
 
