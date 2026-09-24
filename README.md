@@ -6,7 +6,7 @@ I aim to create apps that respect my privacy and the privacy of my friends and f
 
 My background is cross-functional, spanning community organizing, digital strategy, project management, and software engineering. Experience that shapes how I think about products and drives me to work with real people in mind.
 
-### 9/24/2016 Status Report
+### 9/24/2026 Status Report
 I'm currently working away locally on a project I'm excited to ship soon! Stand by or reach out to inquire at theasheurban @ gmail.com
 
 ---
