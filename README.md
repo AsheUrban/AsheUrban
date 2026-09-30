@@ -13,6 +13,8 @@ I'm currently working away locally on a project I'm excited to ship soon! Stand 
 
 ## Highlighted Projects
 
+These projects are in varying states of completion. A Table For and Roger are currently under construction and temporarily on pause while I work on another product (coming soon!). Sanguine is in the ideation stage and I can't wait to get started on development Dine Together and Watch Out for Frank are finished. My most recent and active project is currently only available upon request. Feel free to reach out with any questions via LinkedIn or at the email address indicated above.
+
 ### 🪑A Table For
 🔗 https://github.com/AsheUrban/Table-For  
 **React Native, Expo, TypeScript, Supabase, NativeWind**  
